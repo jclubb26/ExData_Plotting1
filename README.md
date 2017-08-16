@@ -1,3 +1,8 @@
+## Updated
+
+In the following repo you will find 4 png files and 4 R scripts. Each R script will create the plot in png format with the corresponding filename. Each R script includes code for reading in the data so you are able to fully reproduce the plot. For more information on the source data and the instructions for this assignment please see below.
+
+
 ## Introduction
 
 This assignment uses data from
